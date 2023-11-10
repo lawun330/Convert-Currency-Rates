@@ -3,7 +3,7 @@ import java.awt.event.ActionListener;
 
 import javax.swing.JDialog;
 
-public class QuestionDialog extends JDialog implements ActionListener {
+public class L extends JDialog implements ActionListener {
 
   // instance variable to store answer
   public String answer;
