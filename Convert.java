@@ -23,7 +23,7 @@ public class Converter {
   static double usd_yen = currencyFetcher("JPY");
 
 
-  // a method to create multiple buttons
+  // a method to create a button
   public static void addChoice(final String name) {
     // create a panel to contain button and label
     final JPanel choice =  new JPanel(new BorderLayout());	// create a border layout
